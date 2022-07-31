@@ -1,0 +1,4 @@
+amqp_consumer/.vscode
+amqp_consumer/target
+amqp_producer/.vscode
+amqp_producer/target
